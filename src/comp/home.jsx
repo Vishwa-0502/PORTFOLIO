@@ -70,7 +70,7 @@ function Home() {
           </div>
         </div>
         <div className="md:w-1/2  md:ml-40 md:mt-16 order-1 md:order-2">
-        <img src={pic} className='rounded-full  w-[450px] h-[300px] md:w-[450px] md:h-[450px] '/>
+        <img src={pic} className='rounded-full  w-[320px] h-[320px] md:w-[450px] md:h-[450px] '/>
         </div>
       </div>
     </div>
